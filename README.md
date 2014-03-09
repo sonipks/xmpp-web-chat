@@ -28,3 +28,6 @@ Features of using converse.js chat
 * Third person messages (/me )
 * Translated into multiple languages (af, de, en, es, fr, he, hu, id, it, ja, nl, pt_BR, ru)
 * Off-the-record encryption (via OTR.js)
+
+References:
+https://conversejs.org/
